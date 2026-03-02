@@ -7,9 +7,9 @@ from pyrogram.types import Message
 
 # ============================
 # APNI DETAILS YAHAN DAALO
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-API_ID = 123456          # my.telegram.org se lo
-API_HASH = "YOUR_API_HASH_HERE"  # my.telegram.org se lo
+BOT_TOKEN = "8038919105:AAE2Rw9KcING0I3Q4jOTw5FwwxaZmqy4ivs"
+API_ID = 24461319          # my.telegram.org se lo
+API_HASH = "bfee9f2d599eb92dbe32867e20538140"  # my.telegram.org se lo
 # ============================
 
 logging.basicConfig(
